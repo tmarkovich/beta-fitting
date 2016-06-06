@@ -1,0 +1,13 @@
+S66:
+	H-bonded:
+		1-23
+	Dispersion:
+		24-46
+	Other:
+		47-66
+
+S66: dispersion:
+	pi-pi
+		24-29
+	aliphatic-aliphatic
+	pi-aliphatic
